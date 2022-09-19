@@ -1,0 +1,6 @@
+print("Menghitung Luas Ruangan")
+s = str(input("pilih salah satu satuan yang digunakan (Meter/Inchi? "))
+cdg = float(input("Berapa panjang ruangan anda? "))
+ibu = float(input("Berapa lebar ruangan anda? "))
+luas = cdg*ibu
+print("Maka Luas ruangan anda adalah: ",(luas),(s),("persegi"))
